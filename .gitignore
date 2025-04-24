@@ -43,7 +43,6 @@ venv.bak/
 faiss_index/
 
 # Project specific
-data/*.pdf
 *.log
 .env.local
 
